@@ -1,4 +1,4 @@
-# <i>Java Programming: Object-Oriented Design of Data Structions</i>
+# <i>Java Programming: Object-Oriented Design of Data Structures</i>
 
 This repository contains projects from the 5-course Java specialization offered by Coursera and developed by the University of 
 California, San Diego.
