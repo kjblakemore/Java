@@ -23,7 +23,7 @@ Clicking on an earthquake marker displays the earthquake and cities which are th
 
 Clicking on a city marker, displays the city and all earthquakes which threaten the city.
 
-Once a marker has been clicked, a subsequent click anywhere on ther map will re-display all markers.
+Once a marker has been clicked, a subsequent click anywhere on the map will re-display all markers.
 
 ## Implementation
 The visualization is implemented as a Java Applet using the [Java Unfolding Maps Library](http://unfoldingmaps.org/javadoc/) and
