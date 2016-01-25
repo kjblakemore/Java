@@ -5,3 +5,5 @@ California, San Diego.
 
 Each subdirectory corresponds to a separate course in the series.  The subdirectory names and corresponding courses are:
 * UCSDUnfoldingMaps - <i>Object Oriented Programming in Java</i>
+* MOOCTextEditor - <i>Data Structures: Measuring and Optimizing Performance</i>
+* UCSDGraphs - <i>Advanced Data Structures in Java</i>
