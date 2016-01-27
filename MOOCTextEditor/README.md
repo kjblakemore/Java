@@ -44,6 +44,9 @@ Unit testing was done using [JUnit](http://junit.org).
 * Singly, Doubly Linked Lists
 * Binary Search Trees & Tries
 * Hash Tables
+* Algorithmic Complexity
+	* Searching - Linear & Binary
+	* Sorting - Selection, Insertion, Merge Sort & Quick Sort
 
 ## UC San Diego Course README
 Starter Code and GUI Application for Course 2 in the
@@ -93,7 +96,7 @@ of the course. See file for description...
 	spelling.NearbyWords.java
 	spelling.WPTree.java
 
-### SETUP 
+### Setup
 
 Importing Project into eclipse:
 
@@ -105,8 +108,7 @@ Importing Project into eclipse:
 Feel free to use another IDE or manually compile and run your programs.
 If you need help, google is your friend.
 
-### ACKNOWLEDGEMENTS
+### Acknowledgements
 A big thank you to Tomas Mikula for creating [RichTextFX](https://github.com/TomasMikula/RichTextFX)
 which was used as the text area in the GUI application.
-</div>
 

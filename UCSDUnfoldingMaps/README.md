@@ -5,7 +5,7 @@ Specialization</i>.  The course was developed by the University of California Sa
 
 ## Visualization
 
-The programming exercises involved development of an interactive visualization of earthquakes across the world,
+The programming project involved development of an interactive visualization of earthquakes across the world,
 which can be seen, below.
 
 ![screenshot](earthquake.png)
